@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinesh Singh Mehra</h1>
 <h3 align="center">I'm Dinesh Singh Mehra currently a Third Year CSE student at Kurukshetra University and aspiring software developer. Interested in working on Android Development, API's.</h3>
-<img align="center" alt="coding" width="400" src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80">
+<img alt="coding" width="400" src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh5583&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh5583" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh5583" alt="dinesh5583" /></a> </p>
